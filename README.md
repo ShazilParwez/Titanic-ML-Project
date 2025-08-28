@@ -44,9 +44,3 @@ The goal of this project is to **predict whether a passenger survived** the Tita
 - Scikit-learn (for ML model)  
 
 ---
-
-## ▶️ How to Run  
-1. Clone this repository:  
-   ```bash
-   git clone https://github.com/YourUsername/titanic-ml-project.git
-   cd titanic-ml-project
